@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jana-amir
 - 👀 I’m interested in coding
-- 🌱 I’m currently a computer engineer student 
+- 🌱 I’m currently a computer engineer student.
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me janaalamir420@gmail.com
 
